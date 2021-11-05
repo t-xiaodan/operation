@@ -10,79 +10,79 @@
 
 (1) 首先下载一个叫Nighthawk的app，打开Nighthawk app，扫面路由器上的二维码，会弹出如下图：点击继续
 
-![img](C:\Users\linkease\Desktop\运营\doc\aa.assets\wps8097.tmp.png) 
+![img](./aa.assets/wps8097.tmp.png) 
 
 
 
 (2) 可以在此输入你的新密码，并记住你的新密码如下图：点击下一步
 
-![img](C:\Users\linkease\Desktop\运营\doc\aa.assets\wps8098.tmp.png) 
+![img](./aa.assets/wps8098.tmp.png) 
 
 
 
 (3) 将外网接入路由器的WAN口，点击下一步
 
-![img](C:\Users\linkease\Desktop\运营\doc\aa.assets\wps8099.tmp.png) 
+![img](./aa.assets/wps8099.tmp.png) 
 
 
 
 (4)点击复制密码，再点击转至无线设置
 
-![img](C:\Users\linkease\Desktop\运营\doc\aa.assets\wps809A.tmp.png) 
+![img](./aa.assets/wps809A.tmp.png) 
 
 
 
 (5)在此设置管理员密码（密码可以随便输入），点击下一步
 
-![img](C:\Users\linkease\Desktop\运营\doc\aa.assets\wps809B.tmp.png) 
+![img](./aa.assets/wps809B.tmp.png) 
 
 
 
 (6)设置安全问题，填写完之后，点击下一步。
 
-![img](C:\Users\linkease\Desktop\运营\doc\aa.assets\wps809C.tmp.png) 
+![img](./aa.assets/wps809C.tmp.png) 
 
 
 
 (7)输入你之前设置的新密码，点击连接。
 
-![img](C:\Users\linkease\Desktop\运营\doc\aa.assets\wps809D.tmp.png) 
+![img](./aa.assets/wps809D.tmp.png) 
 
 
 
 (8)点击打勾按钮。
 
-![img](C:\Users\linkease\Desktop\运营\doc\aa.assets\wps80AE.tmp.png) 
+![img](./aa.assets/wps80AE.tmp.png) 
 
 
 
 (9)返回步骤(4),点击我已连接到WiFi,一直点击下一步
 
-![img](C:\Users\linkease\Desktop\运营\doc\aa.assets\wps80AF.tmp.png) 
+![img](./aa.assets/wps80AF.tmp.png) 
 
-![img](C:\Users\linkease\Desktop\运营\doc\aa.assets\wps80B0.tmp.png) 
+![img](./aa.assets/wps80B0.tmp.png) 
 
  
 
-![img](C:\Users\linkease\Desktop\运营\doc\aa.assets\wps80B1.tmp.png) 
+![img](./aa.assets/wps80B1.tmp.png) 
 
 
 
 (10) 完成，弹出如下图：点击确定
 
-![img](C:\Users\linkease\Desktop\运营\doc\aa.assets\wps80C1.tmp.png) 
+![img](./aa.assets/wps80C1.tmp.png) 
 
 
 
 (11)点击测试网速。如下图：
 
-![img](C:\Users\linkease\Desktop\运营\doc\aa.assets\wps80D2.tmp.png) 
+![img](./aa.assets/wps80D2.tmp.png) 
 
 
 
  (12)弹出如下图，可以测试自己的WiFi网速：
 
-![img](C:\Users\linkease\Desktop\运营\doc\aa.assets\wps80D3.tmp.png) 
+![img](./aa.assets/wps80D3.tmp.png) 
 
 
 
